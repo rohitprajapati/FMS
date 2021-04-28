@@ -17,5 +17,3 @@ Luggage - This component refers to the luggage categories which includes maxWeig
 Insurance - Each flight booking can have insurance which is applicable within fromDate and toDate period.
 
 AdminUser - AdminUser is a special user which can perform admin operations on all the components. For e.g. for the flight component, it can perform cancelFlight operation which will update the "status" of the flight to cancel.
-
-https://app.creately.com/diagram/aUlb9uCy2qB/edit
